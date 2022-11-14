@@ -61,5 +61,5 @@ function main() {
   cetakHasil(nilaiAnakKedua);
   // Output: Mohon maaf... Anda dinyatakan tidak lulus karena nilai Anda kurang dari 70.
 }
-
+// TEST
 main();
